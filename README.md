@@ -1,5 +1,5 @@
 # helloWorld.py
-A GIS engineer aspiring to be a Data Scientist based in Budapest, Hungary.
+Data engineer based in Budapest, Hungary.
 
 LinkedIn: https://www.linkedin.com/in/pviktor42/
 
